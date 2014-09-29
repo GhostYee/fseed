@@ -1,0 +1,1 @@
+"require('../fseed.js').cli.run(process.argv);" 
